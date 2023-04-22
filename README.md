@@ -1,1 +1,1 @@
-# darijaai
+# darija.ai
